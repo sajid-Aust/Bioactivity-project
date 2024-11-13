@@ -25,3 +25,10 @@ These descriptors are used as input features for the model, along with SMILES da
 2. **Handling Class Imbalance**: Using SMOTENC to oversample the minority class.
 3. **Model Fine-tuning**: Training the `BioT5` model on processed data, using descriptors and SMILES for input.
 4. **Evaluation**: Classifying compounds as active or inactive and evaluating the model’s performance.
+
+## Acknowledgments
+
+- **ChEMBL**
+- **PaDEL**
+- **BioT5 Model**
+
